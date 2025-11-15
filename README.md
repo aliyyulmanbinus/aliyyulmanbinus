@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="https://raw.githubusercontent.com/aliyyulmanbinus/aliyyulmanbinus/main/aliyyulmanj-animation.gif" height="150" autoplay loop muted playsinline></video>
+  <img src="https://raw.githubusercontent.com/aliyyulmanbinus/aliyyulmanbinus/main/aliyyulmanj-animation.gif" height="150"/>
 </div>
 
 <h2 align="center">Hi 👋, I'm Aliyyulman Jihan</h2>
