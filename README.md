@@ -83,9 +83,18 @@
 
 ---
 
-### Portfolio
-<p align="center">
-  <a href="https://aliyyulworks.vercel.app/" target="_blank">
-     <b>Visit My Portfolio Website</b>
-  </a>
-</p>
+---
+
+<div align="center">
+
+## My Portfolio
+
+[![Portfolio](https://img.shields.io/badge/_aliyyulworks.vercel.app-Visit_Now!-6C63FF?style=for-the-badge&logoColor=white)](https://aliyyulworks.vercel.app/)
+
+>  *Projects · Skills · Creative Work - All in one place.*
+
+[![Open Portfolio](https://img.shields.io/badge/_Click_to_Explore-My_Work-FF6B6B?style=for-the-badge)](https://aliyyulworks.vercel.app/)
+
+</div>
+
+---
