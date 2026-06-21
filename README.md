@@ -83,8 +83,6 @@
 
 ---
 
----
-
 <div align="center">
 
 ## My Portfolio
