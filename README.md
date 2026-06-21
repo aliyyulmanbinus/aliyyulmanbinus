@@ -13,10 +13,10 @@
 
 ### Social Media
 <p align="center">
-  <a href="https://www.youtube.com/@aliyyulmanj" target="_blank">
+  <!-- <a href="https://www.youtube.com/@aliyyulmanj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://www.instagram.com/jihanhoree/" target="_blank">
+  </a> -->
+  <a href="https://www.instagram.com/aliyyulworks/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>
   <a href="https://medium.com/@aliyyulmanj" target="_blank">
