@@ -11,7 +11,7 @@
 
 ---
 
-### 🌐 Social Media
+### Social Media
 <p align="center">
   <a href="https://www.youtube.com/@aliyyulmanj" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
@@ -29,7 +29,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript"/>
   <img width="12" />
@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliyyulmanbinus&theme=tokyonight" height="200"/>
 </p>
@@ -66,16 +66,16 @@
 
 ---
 
-###  🟡 Contribution Pacman
+### Contribution
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/aliyyulmanbinus/aliyyulmanbinus/output/snake.svg" alt="Snake animation" />
 
 ---
 
-### 🚀 Portfolio
+### Portfolio
 <p align="center">
   <a href="https://aliyyulworks.vercel.app/" target="_blank">
-    👉 <b>Visit My Portfolio Website</b>
+     <b>Visit My Portfolio Website</b>
   </a>
 </p>
