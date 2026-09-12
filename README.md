@@ -87,11 +87,11 @@
 
 ## My Portfolio
 
-[![Portfolio](https://img.shields.io/badge/_aliyyulworks.vercel.app-Visit_Now!-6C63FF?style=for-the-badge&logoColor=white)](https://aliyyulworks.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/_aliyyulworks.vercel.app-Visit_Now!-6C63FF?style=for-the-badge&logoColor=white)](https://www.aliyyulman.me/)
 
 >  *Projects · Skills · Creative Work - All in one place.*
 
-[![Open Portfolio](https://img.shields.io/badge/_Click_to_Explore-My_Work-FF6B6B?style=for-the-badge)](https://aliyyulworks.vercel.app/)
+[![Open Portfolio](https://img.shields.io/badge/_Click_to_Explore-My_Work-FF6B6B?style=for-the-badge)](https://www.aliyyulman.me/)
 
 </div>
 
