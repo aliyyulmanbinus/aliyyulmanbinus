@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/aliyyulmanbinus/aliyyulmanbinus/main/aliyyulmanj-animation.gif" width="100%">
 </div> -->
 
-<h2 align="center">Hi 👋, I'm Aliyyulman Jihan</h2>
+<h2 align="center">Hi, I'm Aliyyulman Jihan</h2>
 <h3 align="center">Software Engineer from Sragen, Central Java 🇮🇩</h3>
 
 <p align="center">
