@@ -87,7 +87,7 @@
 
 ## My Portfolio
 
-[![Portfolio](https://img.shields.io/badge/_aliyyulworks.vercel.app-Visit_Now!-6C63FF?style=for-the-badge&logoColor=white)](https://www.aliyyulman.me/)
+[![Portfolio](https://img.shields.io/badge/_aliyyulman.me-Visit_Now!-6C63FF?style=for-the-badge&logoColor=white)](https://www.aliyyulman.me/)
 
 >  *Projects · Skills · Creative Work - All in one place.*
 
